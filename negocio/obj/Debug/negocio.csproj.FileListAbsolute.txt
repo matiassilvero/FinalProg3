@@ -1,0 +1,9 @@
+C:\Users\Matias\Desktop\FINALRESTO\negocio\bin\Debug\negocio.dll
+C:\Users\Matias\Desktop\FINALRESTO\negocio\bin\Debug\negocio.pdb
+C:\Users\Matias\Desktop\FINALRESTO\negocio\bin\Debug\dominio.dll
+C:\Users\Matias\Desktop\FINALRESTO\negocio\bin\Debug\dominio.pdb
+C:\Users\Matias\Desktop\FINALRESTO\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\FINALRESTO\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\FINALRESTO\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Matias\Desktop\FINALRESTO\negocio\obj\Debug\negocio.dll
+C:\Users\Matias\Desktop\FINALRESTO\negocio\obj\Debug\negocio.pdb
